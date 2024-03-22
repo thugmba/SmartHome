@@ -1,5 +1,16 @@
 # Smart Home
 
+## Add TTS to automation
+
+Settings/Automation/Create automation/Create new automation
+- When/Time
+- Then do/Text-to-speech (TTS): Speak
+  - Targets/Google en com
+  - Entity/Office speaker
+  - Message/"hahaha"
+  - Cache/on
+  - Language/Unchecked
+
 ## MacOS
 
 ### [Home Asssistant](https://www.home-assistant.io/)
